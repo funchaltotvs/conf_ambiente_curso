@@ -1,4 +1,4 @@
-# Configuração de ambiente - Mini curso da Semana da Informatica - FEMA
+# Configuração de ambiente - Mini Curso - Semana da Informatica - FEMA
 
 <h4>JAVA</h4>
 
