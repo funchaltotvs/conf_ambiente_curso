@@ -26,6 +26,12 @@ Acessar link: https://code.visualstudio.com/download e realizar download na maqu
 
 #
 
+<h4>MONGO</h4>
+
+Acessar link: https://www.mongodb.com/try/download/community e realizar download na maquina.
+
+#
+
 <h4>WSL2</h4>
 
 1° Acessar Windows Store e realizar download do Windows Terminal. <br>
