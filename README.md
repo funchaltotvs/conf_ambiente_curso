@@ -76,7 +76,7 @@ Inicie o serviço do Docker:
 ```
 sudo service docker start
 ```
-Teste com o comando sudo docker ps.
+Teste com o comando sudo docker ps. <br>
 Para mais informações acesse esse repositório: https://github.com/codeedu/wsl2-docker-quickstart/edit/main/README.md
 
 #
