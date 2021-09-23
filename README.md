@@ -2,7 +2,7 @@
 
 <h4>VS CODE</h4>
 
-1° Acessar link: https://code.visualstudio.com/download e realizar download na maquina.
+Acessar link: https://code.visualstudio.com/download e realizar download na maquina.
 
 #
 
