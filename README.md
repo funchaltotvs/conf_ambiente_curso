@@ -83,13 +83,13 @@ Para mais informações acesse esse repositório: https://github.com/codeedu/wsl
 
 <h4>JAVA</h4>
 
-1° No windows terminal com o ubuntu aberto sudo apt-get install openjdk-11-jdk
+No windows terminal com o ubuntu aberto sudo apt-get install openjdk-11-jdk
 
 #
 
 <h4>MAVEN</h4>
 
-1° No windows terminal com o ubuntu aberto sudo apt-get -y install maven
+No windows terminal com o ubuntu aberto sudo apt-get -y install maven
 
 
 
